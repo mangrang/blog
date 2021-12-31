@@ -1,28 +1,33 @@
 ---
 layout: about
-image: /assets/img/me.jpg
+image: /assets/img/me/me.jpg
 description: >
-		인공지능을 공부하고있는 대학원생입니다.
+  A boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
 hide_description: true
 ---
-
 
 # About
 <!--author-->
 ***
 <center>
-<span style="font-size:170%;font-weight:bold">김영훈
+<span style="font-size:170%;font-weight:bold"> 김영훈
 </span>
 </center>
 <center>Web Developer</center>
+<center></center>
 
+## Personal Data
 ---
-> 1996, 대한민국, 서울 > 연락처: amole2315@naver.com
-> Github : [https://github.com/mangrang](https://github.com/mangrang) 
+> 1996, 대한민국, 경기도 > 연락처: amole2315@naver.com
+> Github : [https://github.com/mangrang](https://github.com/mangrang)
+## Education
 ---
-> Mar.2014 ~ Feb.2020 홍익대학교
+> Mar.2015 ~ Feb.2010 한국산업기술대학교
+>
+> 전자공학부
+## Research Interest
 
- 
 ---
 * Computer Vision
 + image Object Detection
@@ -48,4 +53,3 @@ Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI[ht
 -Language : Python, C/C++
 -FrameWork: Pytorch, Tensorflow(Keras)
 -Certification : CCNA, Internet of Things Knowledge Certification
-```
