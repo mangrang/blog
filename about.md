@@ -11,7 +11,7 @@ hide_description: true
 <!--author-->
 ***
 <center>
-<span style="font-size:170%;font-weight:bold"> 김영훈
+<span style="font-size:170%;font-weight:bold">김영훈
 </span>
 </center>
 <center>Web Developer</center>
