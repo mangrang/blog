@@ -8,4 +8,4 @@ categories:
   - project
 ---
 
-<a href="https://mangrang.github.io/manrang/" target="_blank"><img src="/assets/img/blog/js/1.jpg"></a></div>
+<a href="https://mangrang.github.io/mangrang/" target="_blank"><img src="/assets/img/blog/js/1.jpg"></a></div>
