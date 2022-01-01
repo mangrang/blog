@@ -24,9 +24,17 @@
             {{ text | markdownify | replace:'<p>','' | replace:'</p>','' }}
         </p>
 
+        <!--블로그 조회수-->
+        <div style="text-align: center;">
+            <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmangrang.github.io&count_bg=%231D6867&title_bg=%23288C8B&icon=baidu.svg&icon_color=%23CBDFD1&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a>    
+        </div>
+
         {% endif %}
     </div>
-    <!--블로그 조회수-->
+  
+
+
+
     <nav class="sidebar-nav heading" role="navigation">
         {% include body/nav.html %}
     </nav>
