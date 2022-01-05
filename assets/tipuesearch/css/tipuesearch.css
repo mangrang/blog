@@ -64,7 +64,7 @@ http://www.tipue.com/search
           margin-top: 20px;
       }
      #tipue_search_input {
-          color: red;
+          color: #333;
           max-width: 170px;
           max-height: 20px;
           padding: 15px;
