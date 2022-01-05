@@ -50,12 +50,36 @@ http://www.tipue.com/search
 	margin: 0;
      text-align: center;
 }
+
 .tipue_search_icon
 {
      width: 24px;
      height: 24px;
      margin-bottom: 1rem;
 }
+@media (max-width: 780px){
+     .tipue_search_icon {
+          width: 24px;
+          height: 24px;
+          margin-top: 20px;
+      }
+     #tipue_search_input {
+          color: red;
+          max-width: 170px;
+          max-height: 20px;
+          padding: 15px;
+          border: 2px solid #e3e3e3;
+          border-radius: 0;
+          -moz-appearance: none;
+          -webkit-appearance: none;
+          box-shadow: none;
+          outline: 0;
+          margin-bottom: 20px;
+          text-align: center;
+          margin-left: 30px;
+      }
+}
+
 .tipue_search_left
 {
      float: left;

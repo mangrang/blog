@@ -52,3 +52,19 @@ _zip
 
 /assets/js/*hydejack-*
 /_sass/*/__*__/*
+mangrang/background.js
+mangrang/clock.js
+mangrang/index.html
+mangrang/quote.js
+mangrang/script.js
+mangrang/style.css
+mangrang/todo.js
+mangrang/weather.js
+mangrang/img/0.jpg
+mangrang/img/1.jpg
+mangrang/img/2.jpg
+paintjs/app.js
+paintjs/index.html
+paintjs/README.md
+paintjs/reset.css
+paintjs/style.css
